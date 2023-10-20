@@ -6,6 +6,11 @@ ul {
   background-color: #333;
 }
 
+.active {
+  background-color: #04AA6D;
+}
+
+
 li {
   float: left;
 }
@@ -23,6 +28,3 @@ li a:hover {
   background-color: #111;
 }
 
-.active {
-  background-color: #04AA6D;
-}
