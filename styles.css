@@ -36,4 +36,14 @@ body {
   text-align: center; 
 }
 
-#ssd_
+#ssd_header {
+  text-align: center;
+  font-size: 7;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#ssd_text {
+  text-aligh: center;
+  font-size: 4;
+  font-family: Arial, Helvetica, sans-serif;
+}
