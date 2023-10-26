@@ -44,9 +44,10 @@ body {
 }
 
 .ssd_text {
-  text-aligh: center;
+  text-align: center;
   font-size: 20;
   font-family: Arial, Helvetica, sans-serif;
+  color: white;
 }
 
 #img_ssd_hdd {
