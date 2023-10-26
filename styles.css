@@ -43,16 +43,19 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.ssd_text {
+#ssd_text {
   text-align: center;
   font-size: 20;
   font-family: Arial, Helvetica, sans-serif;
-  color: white;
 }
 
 #img_ssd_hdd {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+}
+
+#table_ssd_hdd {
+  text-align: center;
+  width: 100%;
 }
