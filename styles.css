@@ -61,3 +61,10 @@ body {
   text-align: center;
   width: 100%;
 }
+
+#table_ssd_hdd_comparison {
+  text-align: center;
+  width: 100%;
+  border-style: solid;
+  border-width: medium;
+}
