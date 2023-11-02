@@ -67,7 +67,8 @@ body {
   width: 100%;
   border-style: solid;
   border-width: medium;
-  border-radius: 6px;  
+  border-radius: 6px;
+  border-color: #004346;
 }
 
 #td_hdd_ssd_comparison {
