@@ -74,4 +74,6 @@ body {
   text-align: center;
   border-style: solid;
   border-width: medium;
+  border-color: #09BC8A;
+  font-size: 16;
 }
