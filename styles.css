@@ -82,21 +82,7 @@ body {
 p.Ivan {
   font-size: 16px;
   line-height: 1.5;
-  color: #333;
-  margin: 10px 0;
-  font-family: COurier;
-}
-
-/* Additional styling options */
-p.Ivan strong {
-  font-weight: bold;
-}
-
-p.Ivan em {
-  font-style: italic;
-}
-
-p.Ivan a {
-  text-decoration: none;
   color: #ffffff;
+  margin: 10px 0;
+  font-family: Courier;
 }
