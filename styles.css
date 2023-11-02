@@ -82,7 +82,7 @@ body {
 p.Ivan {
   font-size: 16px;
   line-height: 1.5;
-  color: #ffffff;
+  color: "white";
   margin: 10px 0;
   font-family: Courier;
 }
