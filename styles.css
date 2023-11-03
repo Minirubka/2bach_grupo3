@@ -20,7 +20,6 @@ li {
 li a {
   display: flex;
   flex-diraction: row;
-  frex-wrap: nowrap;
   justify-content: center;
   color: white;
   text-align: center;
