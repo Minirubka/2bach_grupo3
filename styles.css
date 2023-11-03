@@ -14,14 +14,14 @@ ul {
 
 
 li {
+
+}
+
+li a {
   display: flex;
   flex-diraction: row;
   frex-wrap: nowrap;
   justify-content: center;
-}
-
-li a {
-  display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
