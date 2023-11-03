@@ -90,3 +90,9 @@ p.Ivan {
   margin: 10px 0;
   font-family: Courier;
 }
+table.Ivant {
+  border-collapse: collapse; 
+  width: 100%; 
+  text-align: center
+  padding: 10px;
+}
