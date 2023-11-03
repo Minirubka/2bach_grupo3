@@ -95,3 +95,10 @@ table.Ivant {
   text-align: center
   padding: 10px;
 }
+p.miguel {
+  font-size: 16px;
+  line-height: 1.499995;
+  color: "white"
+  margin: 10px 0;
+  font-family: Courier;
+}
