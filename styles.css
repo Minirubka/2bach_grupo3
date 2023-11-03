@@ -14,7 +14,10 @@ ul {
 
 
 li {
-  float: left;
+  display: flex;
+  flex-diraction: row;
+  frex-wrap: nowrap;
+  justify-content: center;
 }
 
 li a {
