@@ -18,14 +18,14 @@ ul {
 
 
 li {
-text-align: center;
+  
 }
 
 li a {
-  display: inline-block;
+  display: block;
   color: white;
   text-align: center;
-  padding: 7px 8px;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
