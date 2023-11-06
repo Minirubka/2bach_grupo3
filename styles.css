@@ -39,14 +39,14 @@ body {
   text-align: center;
 }
 
-#ssd_header {
+#header {
   text-align: center;
   font-size: 35;
   font-family: Arial, Helvetica, sans-serif;
   padding-top: 70px;
 }
 
-#ssd_text {
+#text {
   text-align: center;
   font-size: 20;
   font-family: Arial, Helvetica, sans-serif;
@@ -92,11 +92,4 @@ table.Ivant {
   width: 100%; 
   text-align: center
   padding: 10px;
-}
-p.miguel {
-  font-size: 16px;
-  line-height: 1.499995;
-  color: "white";
-  margin: 10px 0;
-  font-family: Courier;
 }
