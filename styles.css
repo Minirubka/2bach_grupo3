@@ -14,7 +14,7 @@ ul {
 
 
 li {
-  float: left;
+  display: list-item;  
 }
 
 li a {
