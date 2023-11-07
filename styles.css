@@ -1,4 +1,6 @@
 ul {
+  display: flex;
+  justify-content: center;
   position: fixed;
   list-style-type: none;
   margin-top: 0;
