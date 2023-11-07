@@ -104,4 +104,6 @@ p.Ivan {
 #table_ssd_hdd_comparison_text {
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 18;
+  text-align: center;
+  vertical-align: center;
 }
