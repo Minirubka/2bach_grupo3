@@ -101,3 +101,7 @@ p.Ivan {
   WIDTH:"250px" ; 
  height:"250px" ;
 }
+table_ssd_hdd_comparison_text {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 18;
+}
