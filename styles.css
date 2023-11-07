@@ -114,3 +114,10 @@ p.Ivan {
   text-align: center;
   vertical-align: middle;
 }
+#table_Ivan {
+  text-align: center;
+  width: 100%;
+  border-style: solid;
+  border-width: medium;
+  border-radius: 6px;
+  }
