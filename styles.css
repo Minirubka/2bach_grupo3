@@ -91,9 +91,9 @@ p.Ivan {
   margin: 10px 0;
   font-family: Courier;
 }
-table.Ivant {
-  border-collapse: collapse; 
-  width: 70%; 
-  text-align: center
-  padding: 10px;
+#table {
+  WIDTH="70%" 
+  BORDER="0" 
+  align="center" 
+  cellspacing="10"
 }
