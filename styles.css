@@ -92,12 +92,12 @@ p.Ivan {
   font-family: Courier;
 }
 #table {
-  WIDTH="70%" ;
-  BORDER="0" ;
-  align="center"; 
-  cellspacing="10";
+  WIDTH:"70%" ;
+  BORDER:"0" ;
+  align:"center"; 
+  cellspacing:"10";
 }
 #img {
-  WIDTH="250px" ; 
- height="250px" ;
+  WIDTH:"250px" ; 
+ height:"250px" ;
 }
