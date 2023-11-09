@@ -35,6 +35,8 @@ li a:hover {
 
 body {
   background-color: #1A2238;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: white;
 }
 
