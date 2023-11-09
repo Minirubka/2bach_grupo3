@@ -168,3 +168,6 @@ p.Ivan {
 	text-transform: uppercase;
 	font-size: 15px;
 }
+#home_body {
+	background-color: rgba(255, 255, 255, 0.7);
+}
