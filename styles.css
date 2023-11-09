@@ -133,13 +133,12 @@ p.Ivan {
   position: absolute;
   width: 600px;
   height: 300px;
-  margin: 20% 30%;
+  margin: 10% 30%;
   text-align: center;
 }
 .welcome-text {
 		width: 100%;
 		height: auto;
-		margin: 5% 0;
 	}
 .welcome-text a {
 	border: 1px solid #09BC8A;
