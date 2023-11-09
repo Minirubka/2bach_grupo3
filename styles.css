@@ -120,6 +120,7 @@ p.Ivan {
   border-style: solid;
   border-width: medium;
   border-radius: 6px;
+  margin:auto;
   }
 #home_container {
   padding-top: 150px;
