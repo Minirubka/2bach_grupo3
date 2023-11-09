@@ -136,10 +136,8 @@ p.Ivan {
   text-align: center;
 }
 .welcome-text {
-		width: 50%;
+		width: 100%;
 		height: auto;
-	border: 2px solid #09BC8A;
-	background-color: #1A2238;
 	}
 .welcome-text a {
 	border: 1px solid #09BC8A;
@@ -169,7 +167,4 @@ p.Ivan {
 	text-align: center;
 	text-transform: uppercase;
 	font-size: 15px;
-}
-#home_body {
-	background-color: rgba(255, 255, 255, 0.7);
 }
