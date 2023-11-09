@@ -136,8 +136,10 @@ p.Ivan {
   text-align: center;
 }
 .welcome-text {
-		width: 100%;
+		width: 50%;
 		height: auto;
+	border: 2px solid #09BC8A;
+	background-color: #1A2238;
 	}
 .welcome-text a {
 	border: 1px solid #09BC8A;
