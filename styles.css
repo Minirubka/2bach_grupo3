@@ -145,3 +145,8 @@ p.Ivan {
 	display: inline-block;
 	color: #fff;
 }
+.welcome-text a:hover {
+	background: #fff;
+	color: #333;
+}
+
