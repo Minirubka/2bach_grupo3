@@ -121,3 +121,9 @@ p.Ivan {
   border-width: medium;
   border-radius: 6px;
   }
+#home_container {
+  padding-top: 150px;
+  display: flex;
+  flex-diraction: column;
+  
+}
