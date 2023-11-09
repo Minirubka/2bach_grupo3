@@ -124,11 +124,14 @@ p.Ivan {
   border-color: #004346;
   }
 #home_container {
-display: flex;
-	justify-content: center;
   position: absolute;
   width: 600px;
   height: 300px;
   margin: 20% 30%;
   text-align: center;
 }
+.welcome-text {
+		width: 100%;
+		height: auto;
+		margin: 30% 0;
+	}
