@@ -143,13 +143,15 @@ p.Ivan {
 	font-size: 14px;
 	margin-top: 20px;
 	display: inline-block;
+	color: #fff;
 }
 .welcome-text a:hover {
 	background: #004346;
+	color: #fff;
 }
 .welcome-text h1 {
 	text-align: center;
 	text-transform: uppercase;
-	font-size: 60px;
+	font-size: 40px;
 }
 
