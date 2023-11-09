@@ -124,9 +124,9 @@ p.Ivan {
   border-color: #004346;
   }
 #home_container {
-  padding-top: 150px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  height: 50%;
+  position: absolute;
+	width: 600px;
+	height: 300px;
+	margin: 20% 30%;
+	text-align: center;
 }
