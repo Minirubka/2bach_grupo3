@@ -124,6 +124,7 @@ p.Ivan {
 #home_container {
   padding-top: 150px;
   display: flex;
-  flex-diraction: column;
+  flex-diraction: row;
+  text-align: center;
   
 }
