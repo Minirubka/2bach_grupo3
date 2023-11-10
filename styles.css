@@ -137,6 +137,13 @@ p.Ivan {
   margin: 10% 30%;
   text-align: center;
 }
+#home_container1 {
+  position: absolute;
+  width: 1400px;
+  height: 787.5px;
+  margin: 10% 10%;
+  text-align: center;
+}
 .welcome-text {
 		width: 100%;
 		height: auto;
