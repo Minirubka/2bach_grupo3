@@ -169,12 +169,13 @@ p.Ivan {
 	text-align: center;
 	text-transform: uppercase;
 	font-size: 15px;
-.change-background.background {
-  background-color: #ffcc00; 
 }
 #info_background {
 	background-image: url("info_background.jpg");
 	background-repeat: no-repeat;
         background-attachment: fixed;
         color: white;
+}
+.change-background {
+  background-color: #ffcc00;
 }
