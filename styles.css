@@ -169,9 +169,8 @@ p.Ivan {
 	text-align: center;
 	text-transform: uppercase;
 	font-size: 15px;
-}
-p.livan {
-  background: #ffe5e5;
+.change-background.background {
+  background-color: #ffcc00; 
 }
 #info_background {
 	background-image: url("info_background.jpg");
